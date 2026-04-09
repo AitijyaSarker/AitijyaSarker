@@ -16,7 +16,11 @@
   <img src="https://img.shields.io/badge/Student-CSE%20Undergrad-orange?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AitijyaSarker&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 ---
+
 
 ## 🧠 About Me
 
