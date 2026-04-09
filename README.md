@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AitijyaSarker/AitijyaSarker/main/1755668925698.jpeg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Aitijya Sarker</h1>
 
 <h3 align="center">
