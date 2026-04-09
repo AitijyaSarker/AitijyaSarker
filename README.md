@@ -29,28 +29,23 @@
 ## 🚀 Core Skills
 
 ### 💻 Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,nodejs,express,mongodb,supabase" />
+</p>
 
 ---
 
 ### 🧠 Programming & Problem Solving
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp" />
+</p>
 
 ---
 
 ### 🤖 Exploring
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux" />
+</p>
 
 ---
 
